@@ -31,7 +31,7 @@ export default function Home() {
 
       <div>DOOODOOBUTTFART</div>
       <p>
-        <Link href="/moredoodoo">less DOOODOOBUTTFART</Link>
+        <Link href="/moredoodoo">SDHJBNXVDFGHJBXVDFHJBXVFHJKBSDFXV</Link>
       </p>
 
       <div className={styles.center}>
